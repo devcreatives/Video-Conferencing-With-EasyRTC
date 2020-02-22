@@ -1,6 +1,6 @@
 # Change Log
 
-All notable changes to the "Video Conferencing with EasyRTC" extension will be documented in this file.
+All notable changes to the "Video Conferencing with EasyRTC" will be documented in this file.
 
 ## Video Conferencing with EasyRTC [1.0.0] - 2019-09-01 (Released) 
 ### Added
